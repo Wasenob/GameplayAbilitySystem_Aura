@@ -5,7 +5,6 @@
 #include "CoreMinimal.h"
 #include "AttributeSet.h"
 #include "UObject/NoExportTypes.h"
-#include "AuraPlayerState.generated.h"
 #include "AuraWidgetController.generated.h"
 
 class UAttributeSet;
